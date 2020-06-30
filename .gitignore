@@ -1,0 +1,6 @@
+**Session.vim
+**/build
+**/node_modules
+.mnemonic
+.infuraid
+.infurakey
